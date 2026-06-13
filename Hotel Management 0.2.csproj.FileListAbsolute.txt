@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.exe.config
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.exe
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.pdb
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Form1.resources
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Properties.Resources.resources
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.exe
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.pdb
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.CopyComplete
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.FormAdmin.resources
+C:\Users\HP\source\repos\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Form2.resources
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.exe.config
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.exe
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\Hotel Management 0.2.pdb
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\System.Data.SqlClient.dll
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\bin\Debug\System.Data.SqlClient.xml
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.AssemblyReference.cache
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.SuggestedBindingRedirects.cache
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Form1.resources
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Form2.resources
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.FormAdmin.resources
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel_Management_0._2.Properties.Resources.resources
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.GenerateResource.cache
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.CoreCompileInputs.cache
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.csproj.CopyComplete
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.exe
+F:\C#\Hotel Management 0.2\Hotel Management 0.2\obj\Debug\Hotel Management 0.2.pdb
